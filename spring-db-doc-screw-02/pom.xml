@@ -35,9 +35,9 @@
                 <configuration>
                     <!-- 数据库相关配置 -->
                     <driverClassName>com.mysql.cj.jdbc.Driver</driverClassName>
-                    <jdbcUrl>jdbc:mysql://400-infra.server.iocoder.cn:3306/mall_system</jdbcUrl>
+                    <jdbcUrl>jdbc:mysql://ip:3306/order</jdbcUrl>
                     <username>root</username>
-                    <password>3WLiVUBEwTbvAfsh</password>
+                    <password>root</password>
                     <!-- screw 配置 -->
                     <fileType>HTML</fileType>
                     <title>数据库文档</title> <!--标题-->

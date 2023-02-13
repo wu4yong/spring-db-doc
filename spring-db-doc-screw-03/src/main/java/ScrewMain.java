@@ -11,13 +11,13 @@ import java.util.Collections;
 
 public class ScrewMain {
 
-    private static final String DB_URL = "jdbc:mysql://400-infra.server.iocoder.cn:3306";
-    private static final String DB_NAME = "mall_system";
+    private static final String DB_URL = "jdbc:mysql://ip:3306";
+    private static final String DB_NAME = "order";
     private static final String DB_USERNAME = "root";
-    private static final String DB_PASSWORD = "3WLiVUBEwTbvAfsh";
+    private static final String DB_PASSWORD = "root";
 
-    private static final String FILE_OUTPUT_DIR = "/Users/yunai/screw_test";
-    private static final String JAVA_CLASS_PACKAGE = "cn.iocoder.dataobject";
+    private static final String FILE_OUTPUT_DIR = "D:\\IntelliJ IDEA\\workspaceenjoy\\spring-db-doc\\doc";
+    private static final String JAVA_CLASS_PACKAGE = "com.qili";
 
     public static void main(String[] args) {
         // 创建 screw 的配置
