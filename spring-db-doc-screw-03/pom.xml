@@ -22,8 +22,8 @@
         </dependency>
         <dependency>
             <groupId>cn.smallbun.screw</groupId>
-            <artifactId>screw-maven-plugin</artifactId>
-            <version>1.0.5</version>
+            <artifactId>screw-extension</artifactId>
+            <version>1.0.6-SNAPSHOT</version>
         </dependency>
 
         <!-- 数据库连接 -->
